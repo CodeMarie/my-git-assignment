@@ -32,7 +32,7 @@
 Make sure to read the 2 articles listed above on writing good commit messages. And come up with what you think would be a good commit message as an example.
 
 ```
-YOUR ANSWER
+Using a verb at the beginning, e.g. Add, finished, updated and a short summary is useful. 
 ```
 
 ### 2: Git Commands
@@ -82,7 +82,7 @@ git branch branchname
 8. What command would you use to change between branches?
 
 ```
-git checkout
+git switch
 ```
 
 9. Which command would you use to see the changes you have made to your files vs the last commit?
