@@ -40,55 +40,55 @@ YOUR ANSWER
 1. What is the command to initialize a directory into a Git repository?
 
 ```
-YOUR ANSWER
+git init
 ```
 
 2. What is the command to prepare a file to be committed?
 
 ```
-YOUR ANSWER
+git add filename or git add . 
 ```
 
 3. Now that you have staged your changes, which command would need to commit them?
 
 ```
-YOUR ANSWER
+git commit -m "Message"
 ```
 
 4. What is the command to publish your local changes to a remote repository?
 
 ```
-YOUR ANSWER
+git push -u origin repository name
 ```
 
 5. Which command would you use to check which files have been changed?
 
 ```
-YOUR ANSWER
+git status 
 ```
 
 6. What is the git command to see a list of branches?
 
 ```
-YOUR ANSWER
+git branch
 ```
 
 7. What command would you use to create a new branch?
 
 ```
-YOUR ANSWER
+git branch branchname 
 ```
 
 8. What command would you use to change between branches?
 
 ```
-YOUR ANSWER
+git checkout
 ```
 
 9. Which command would you use to see the changes you have made to your files vs the last commit?
 
 ```
-YOUR ANSWER
+git diff 
 ```
 
 ## Submission Guidelines
